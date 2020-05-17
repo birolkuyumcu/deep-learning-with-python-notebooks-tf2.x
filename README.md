@@ -16,7 +16,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
     * [3.6: Classifying newswires]()
     * [3.7: Predicting house prices]()
 * Chapter 4:
-    * [4.4: Underfitting and overfitting])()
+    * [4.4: Underfitting and overfitting]()
 * Chapter 5:
     * [5.1: Introduction to convnets]()
     * [5.2: Using convnets with small datasets]()
