@@ -13,7 +13,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
     * [2.1: A first look at a neural network](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/2.1-a-first-look-at-a-neural-network.ipynb)
 * Chapter 3:
     * [3.5: Classifying movie reviews](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/3.5-classifying-movie-reviews.ipynb)
-    * [3.6: Classifying newswires]((https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/3.6-classifying-newswires.ipynb)
+    * [3.6: Classifying newswires](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/3.6-classifying-newswires.ipynb)
     * [3.7: Predicting house prices]()
 * Chapter 4:
     * [4.4: Underfitting and overfitting]()
