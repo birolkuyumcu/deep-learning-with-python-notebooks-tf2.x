@@ -10,7 +10,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
 ## Table of contents
 
 * Chapter 2:
-    * [2.1: A first look at a neural network]()
+    * [2.1: A first look at a neural network](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/2.1-a-first-look-at-a-neural-network.ipynb)
 * Chapter 3:
     * [3.5: Classifying movie reviews]()
     * [3.6: Classifying newswires]()
