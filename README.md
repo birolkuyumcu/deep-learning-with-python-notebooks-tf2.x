@@ -17,7 +17,8 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
     * [3.7: Predicting house prices](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/3.7-predicting-house-prices.ipynb)
 
 * Chapter 4:
-    * [4.4: Underfitting and overfitting]()
+    * [4.4: Underfitting and overfitting](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/4.4-overfitting-and-underfitting.ipynb)
+
 * Chapter 5:
     * [5.1: Introduction to convnets]()
     * [5.2: Using convnets with small datasets]()
