@@ -22,7 +22,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
 * Chapter 5:
     * [5.1: Introduction to convnets](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.1-introduction-to-convnets.ipynb)
 
-    * [5.2: Using convnets with small datasets]()
+    * [5.2: Using convnets with small datasets](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.2-using-convnets-with-small-datasets.ipynb)
     * [5.3: Using a pre-trained convnet]()
     * [5.4: Visualizing what convnets learn]()
 * Chapter 6:
