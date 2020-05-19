@@ -24,7 +24,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
 
     * [5.2: Using convnets with small datasets](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.2-using-convnets-with-small-datasets.ipynb)
     * [5.3: Using a pre-trained convnet](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.3-using-a-pretrained-convnet.ipynb)
-    * [5.4: Visualizing what convnets learn]()
+    * [5.4: Visualizing what convnets learn]https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
 * Chapter 6:
     * [6.1: One-hot encoding of words or characters]()
     * [6.1: Using word embeddings]()
