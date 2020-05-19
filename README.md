@@ -26,9 +26,9 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
     * [5.3: Using a pre-trained convnet](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.3-using-a-pretrained-convnet.ipynb)
     * [5.4: Visualizing what convnets learn](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
 * Chapter 6:
-    * [6.1: One-hot encoding of words or characters]()
-    * [6.1: Using word embeddings]()
-    * [6.2: Understanding RNNs]()
+    * [6.1: One-hot encoding of words or characters](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/6.1-one-hot-encoding-of-words-or-characters.ipynb)
+    * [6.1: Using word embeddings](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/6.1-using-word-embeddings.ipynb)
+    * [6.2: Understanding RNNs](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/6.2-understanding-recurrent-neural-networks.ipynb)
     * [6.3: Advanced usage of RNNs]()
     * [6.4: Sequence processing with convnets]()
 * Chapter 8:
