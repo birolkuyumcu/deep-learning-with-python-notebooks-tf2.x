@@ -32,7 +32,7 @@ These notebooks use Python 3.x and Kerass within Tensorflow 2.0
     * [6.3: Advanced usage of RNNs]()
     * [6.4: Sequence processing with convnets]()
 * Chapter 8:
-    * [8.1: Text generation with LSTM]()
+    * [8.1: Text generation with LSTM](https://nbviewer.jupyter.org/github/birolkuyumcu/deep-learning-with-python-notebooks-tf2.x/blob/master/8.1-text-generation-with-lstm.ipynb)
     * [8.2: Deep dream]()
     * [8.3: Neural style transfer]()
     * [8.4: Generating images with VAEs]()
